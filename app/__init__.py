@@ -1,0 +1,4 @@
+"""AegisRAG: Enterprise High-Precision Hybrid RAG & AI Agent Service."""
+
+__version__ = "1.0.0"
+
